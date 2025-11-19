@@ -1,0 +1,5 @@
+package ClassWork;
+class Example
+{
+    
+}
